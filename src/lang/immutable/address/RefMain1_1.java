@@ -15,5 +15,6 @@ public class RefMain1_1 {
         System.out.println("a = " + a); // 부산
         System.out.println("b = " + b); // 부산
 
+
     }
 }
