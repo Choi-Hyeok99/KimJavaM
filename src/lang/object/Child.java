@@ -1,4 +1,4 @@
-package object;
+package lang.object;
 
 // 명시적 상속  extends Parent
 public class Child extends Parent {
