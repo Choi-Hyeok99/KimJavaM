@@ -7,5 +7,15 @@ public class TestString10 {
 
         // 코드 작성
 
+        String[] fr = fruits.split(",");
+        for (String fruit : fr) {
+            System.out.println(fruit);
+        }
+
+        // 더하기
+        String join = String.join("->", fr);
+        System.out.println("join :  " + join);
+
+
     }
 }
