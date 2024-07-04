@@ -6,6 +6,6 @@ public enum Grade {
 
 
     // 열거형도 클래스
-    // 열거형은 자동으로 java.lang.Enum 상속
+    // 열거형은 자동으로 java.lang.Enum 상속 extends Enum
     // 외부에서 임의 생성 X
 }
